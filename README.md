@@ -5,7 +5,7 @@
 I'm a software engineer based in Hong Kong, focused on building maintainable backend services, cloud infrastructure, and AI-powered applications. I enjoy solving practical engineering problems, automating repetitive workflows, and exploring new technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white)](https://resume.codemonkeykim.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-wong-ab47a220a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-huang-ab47a220a/)
 
 ## About Me
 
